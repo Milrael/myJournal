@@ -1,0 +1,13 @@
+body {
+  background-color: #353646;
+}
+
+
+.app {
+  width: 70%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  padding: 30px;
+
+}

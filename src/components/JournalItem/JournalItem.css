@@ -1,0 +1,23 @@
+.journal-item__heading {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+
+}
+
+.journa-item__date {
+    color: rgba(255, 255, 255, 0.40);
+}
+
+.journal-item__text {
+    color: rgba(255, 255, 255, 0.60);
+}
+
+.journal-item__body {
+    display: flex;
+    gap: 10px;
+}
+
+.logo {
+    width: 500px;
+}

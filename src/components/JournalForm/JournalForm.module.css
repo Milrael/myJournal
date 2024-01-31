@@ -1,0 +1,19 @@
+.journal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+
+.not-valid {
+    /* border: 1px solid red; */
+    box-shadow: 1px 1px 20px 5px rgba(255, 0, 0, 0.6);
+}
+.not-valid1 {
+    /* border: 1px solid red; */
+    box-shadow: 1px 1px 20px 5px rgba(255, 0, 0, 0.6);
+}
+.not-valid2 {
+    /* border: 1px solid red; */
+    box-shadow: 1px 1px 20px 5px rgba(255, 0, 0, 0.6);
+}
